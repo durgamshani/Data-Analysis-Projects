@@ -51,5 +51,5 @@ This repository also contains my practice work covering:
 
 ## 📫 Connect with Me
 
-* **LinkedIn:** [Add Your LinkedIn Profile Link Here]
-* **Email:** [Add Your Email Here]
+* **LinkedIn:** [https://www.linkedin.com/in/durgam-shani-91bba1280]
+* **Email:** [durgamshani@gamil.com]
